@@ -1,0 +1,11 @@
+ID,Data,Cliente,Produto,Categoria,Quantidade,Preço_Unitário,Total,Cidade
+1,2025-04-01,Ana Souza,Fone de Ouvido,Eletrônicos,2,99.90,199.80,Teresina
+2,2025-04-01,Carlos Lima,Camiseta Polo,Vestuário,1,59.90,59.90,Campo Maior
+3,2025-04-02,Marcos Silva,Notebook,Eletrônicos,1,3299.00,3299.00,Parnaíba
+4,2025-04-03,Juliana Alves,Mouse,Eletrônicos,3,49.90,149.70,Teresina
+5,2025-04-03,Lucas Pereira,Chinelo,Vestuário,2,29.90,59.80,Campo Maior
+6,2025-04-04,Patrícia Lima,Livro Python,Livros,1,89.90,89.90,Floriano
+7,2025-04-05,Ricardo Gomes,Cafeteira,Eletrodomésticos,1,249.90,249.90,Teresina
+8,2025-04-05,Beatriz Rocha,Smartphone,Eletrônicos,1,1899.00,1899.00,Picos
+9,2025-04-06,Aline Costa,Blusa Feminina,Vestuário,2,45.90,91.80,Campo Maior
+10,2025-04-07,Pedro Alves,Impressora,Eletrônicos,1,699.00,699.00,Teresina
